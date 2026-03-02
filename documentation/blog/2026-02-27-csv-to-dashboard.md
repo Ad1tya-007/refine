@@ -5,7 +5,7 @@ slug: csv-to-dashboard-no-code
 authors: ozgur
 category: "How To Build"
 tags: [ai, react, admin-panel]
-image: https://refine.ams3.cdn.digitaloceanspaces.com/blog/2026-02-27-csv-to-panel/banner.png
+image: https://refine.ams3.cdn.digitaloceanspaces.com/blog/2026-02-27-csv-to-panel/banner.webp
 hide_table_of_contents: false
 ---
 
