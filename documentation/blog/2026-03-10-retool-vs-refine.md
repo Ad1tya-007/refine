@@ -4,7 +4,7 @@ description: A practical comparison of Retool and Refine for building internal t
 slug: retool-vs-refine
 authors: ozgur
 category: "Alternatives"
-tags: [comparison, internal-tools, open-source]
+tags: [comparison, open-source]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2026/2026-04-08-retool/Refine%20V3%20Frame%202919%20(16).png
 hide_table_of_contents: false
 ---
