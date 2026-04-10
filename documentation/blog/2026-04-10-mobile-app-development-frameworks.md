@@ -4,7 +4,7 @@ description: "A practical guide to the best mobile app development frameworks in
 slug: mobile-app-development-frameworks
 authors: ozgur
 category: "Comparison"
-tags: [comparison, react, javascript]
+tags: [comparison, dev-tools]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2026/2026-04-10-mobile-app-dev/banner.png
 hide_table_of_contents: false
 ---
