@@ -3,7 +3,7 @@ title: "Best Frameworks for Mobile App Development in 2026"
 description: "A practical guide to the best mobile app development frameworks in 2026. Covers React Native, Flutter, Kotlin Multiplatform, SwiftUI, .NET MAUI, and how to pick the right one for your project."
 slug: mobile-app-development-frameworks
 authors: ozgur
-category: "Comparison"
+category: "Alternatives"
 tags: [comparison, dev-tools]
 image: https://refine.ams3.cdn.digitaloceanspaces.com/blog-yearly/2026/2026-04-10-mobile-app-dev/banner.png
 hide_table_of_contents: false
